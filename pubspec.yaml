@@ -1,5 +1,5 @@
 name: native_shutter_sound
-description: A new Flutter plugin project.
+description: A simple flutter plugin, that lets you play the native shutter sound for iOS and Android.
 version: 0.0.1
 repository: https://github.com/HTMHell/native_shutter_sound
 
