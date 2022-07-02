@@ -14,10 +14,10 @@ First, add `native_shutter_sound` as a [dependency in your pubspec.yaml file](ht
 import 'package:native_shutter_sound/native_shutter_sound.dart';
     ...
     ElevatedButton(
-    onPressed: () {
-        NativeShutterSound.play();
-    },
-    child: const Text('Play Sound'),
+        onPressed: () {
+            NativeShutterSound.play();
+        },
+        child: const Text('Play Sound'),
     )
     ...
 ```
